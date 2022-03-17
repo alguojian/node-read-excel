@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "fs": "0.0.1-security",
     "node-xlsx": "^0.21.0"
   }
 }
